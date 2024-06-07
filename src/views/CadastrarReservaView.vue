@@ -87,7 +87,7 @@ export default {
         />
       </div>
       <div class="input-container">
-        <label for="checkout">Data de check-ou</label>
+        <label for="checkout">Data de check-out</label>
         <input
           type="date"
           id="checkout"
